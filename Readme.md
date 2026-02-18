@@ -20,7 +20,7 @@ You can use the standard base64 utility found in most terminals.
 
 - Open your Terminal in the folder where the file is located.
 - Run the following command:
-	base64 -d -i HW1.txt > restored_image.png
+	```base64 -d -i HW1.txt > restored_image.png```
 
 **Note:** The input file might contain header/footer lines from Windows certutil.
 The -d flag decodes, and -i ignores non-alphabet characters (like newlines/headers).
