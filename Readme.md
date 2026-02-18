@@ -6,7 +6,7 @@ Choose the method below that matches your operating system.
 
 ## 1. Windows
 
-Use built-in ```certuril``` tool
+Use built-in ```certutil``` tool
 
 - Open Command Prompt (cmd.exe) in the folder where the file is located.
 - Run the following command:
